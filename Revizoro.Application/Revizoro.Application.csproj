@@ -14,4 +14,8 @@
     <ProjectReference Include="..\Revizorro.Domain\Revizorro.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Places\Queries\GetPlace\" />
+  </ItemGroup>
+
 </Project>
