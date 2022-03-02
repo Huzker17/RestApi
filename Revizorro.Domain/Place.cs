@@ -15,6 +15,5 @@ namespace Revizorro.Domain
         public string MainPhoto {get;set;}
         public IEnumerable<string> GalleryPhotos { get; set; }
         public float Rating { get; set; }
-        public IEnumerable<Review> Comments { get; set; }
     }
 }
